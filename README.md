@@ -1,2 +1,2 @@
 # Recursive Snowflake
-Assignment for AP Computer Science class (2015)
+Assignment for AP Computer Science (2015)
